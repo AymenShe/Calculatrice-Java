@@ -4,4 +4,4 @@
 
 Ce projet en Java avait pour but de créer une application super simple d'une calculatrice qui ne peut calculer que les opérations binaires basiques.
 
-Une encapsulation des variables, le concept d'héritage ou encore l'utilisation d'interface dans ce projet a visiter plusieurs principes de base de Java. 
+Une encapsulation des variables, le concept d'héritage ou encore l'utilisation d'interface ce projet a visiter plusieurs principes de Java. 
